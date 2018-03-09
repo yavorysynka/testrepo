@@ -1,3 +1,12 @@
 files:
   - source: '*.xml'
-    translation: /%two_letters_code%/%original_file_name%
+    ignore:
+      - es/strings (1).xml
+      - uk/strings (1).xml
+    translation: /%locale_with_underscore%/%original_file_name%
+    languages_mapping:
+      language:
+        ru-UA: eu-UA
+    content_segmentation: '0'
+    translatable_elements:
+      - </post_title><post_content>
