@@ -5,8 +5,8 @@ files:
       - uk/strings (1).xml
     translation: /%locale_with_underscore%/%original_file_name%
     languages_mapping:
-      language:
-        ru-UA: eu-UA
+      locale_with_underscore:
+        de: de-de
     content_segmentation: '0'
     translatable_elements:
       - </post_title><post_content>
