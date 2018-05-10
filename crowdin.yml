@@ -1,11 +1,8 @@
 files:
   - source: '*.xml'
-    ignore:
-      - es/strings (1).xml
-      - uk/strings (1).xml
-    translation: /%locale_with_underscore%/%original_file_name%
+    translation: /%two_letters_code%/%original_file_name%
     languages_mapping:
-      locale_with_underscore:
+      two_letters_code:
         de: de-de
     content_segmentation: '0'
     translatable_elements:
