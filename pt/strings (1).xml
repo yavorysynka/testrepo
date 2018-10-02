@@ -28,7 +28,7 @@
   <string name="cos">cos</string>
   <string name="cosDesc">co-seno</string>
   <string name="cos_mathematical_value">cos</string>
-  <string name="currency_update_time_format">Taxas de câmbio são fornecidas pelo webull (%s)</string>
+  <string name="currency_update_time_format">Taxas de câmbio são fornecidas pelo webull (%s )</string>
   <string name="dateformat">Dd/MM/aaaa</string>
   <string name="day">dia</string>
   <string name="del">DEL</string>
@@ -422,8 +422,8 @@
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_update_dialog_message">"A introdução de versão %1$s
-Tamanho: %2$s"</string>
+Tamanho: %2$s "</string>
   <string name="xiaomi_update_dialog_message_diff">"A introdução de versão %1$s
-Atualização Delta tamanho: %2$s"</string>
+Atualização Delta tamanho: %2$s "</string>
   <string name="xiaomi_update_dialog_title">%1$s atualização!</string>
 </resources>
