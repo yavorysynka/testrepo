@@ -29,8 +29,6 @@
   <string name="cosDesc">coseno</string>
   <string name="cos_mathematical_value">cos</string>
   <string name="currency_update_time_format">Los tipos de cambio son proporcionados por webull (%s)</string>
-  <string name="current_rate_remind_commercial"></string>
-  <string name="current_rate_remind_fund"></string>
   <string name="dateformat">MM/dd/aaaa</string>
   <string name="day">day</string>
   <string name="del">DEL</string>
@@ -62,10 +60,7 @@
   <string name="from_unit">km/h</string>
   <string name="from_unit_en">Kilómetro por hora</string>
   <string name="from_unit_short">km/h</string>
-  <string name="fund"></string>
-  <string name="fund_loan"></string>
   <string name="home_title_calculator">Calculator</string>
-  <string name="income_type"></string>
   <string name="item_title_aa_payment">Dividir el proyecto de ley</string>
   <string name="item_title_area_conversion">Area</string>
   <string name="item_title_calculator">Calculator</string>
@@ -100,7 +95,6 @@
   <string name="loan_unit">×10K</string>
   <string name="minus">−</string>
   <string name="minusDesc">menos</string>
-  <string name="month"></string>
   <string name="mortgage_amount">Total</string>
   <string name="mortgage_average_repayment_first_month">Primer mes de reembolso</string>
   <string name="mortgage_average_repayment_monthly">Pago mensual</string>
@@ -169,10 +163,8 @@
   <string name="sin">el pecado</string>
   <string name="sinDesc">sinusoidal</string>
   <string name="sin_mathematical_value">el pecado</string>
-  <string name="social_security"></string>
   <string name="sqrt">√</string>
   <string name="sqrtDesc">raíz cuadrada</string>
-  <string name="start_calculate"></string>
   <string name="tan">bronceado</string>
   <string name="tanDesc">tangente</string>
   <string name="tan_mathematical_value">bronceado</string>
@@ -187,7 +179,6 @@
   <string name="tax_city_error">Introduzca correcta de la ciudad</string>
   <string name="tax_city_located">Location</string>
   <string name="tax_city_picker">Ciudad</string>
-  <string name="tax_edittext_hint"></string>
   <string name="tax_endowment">Fondo de jubilación de los</string>
   <string name="tax_fixed_salary_hint">Introduce tus ingresos antes de impuestos</string>
   <string name="tax_income_before_tax">Antes de impuestos</string>
@@ -209,11 +200,8 @@
   <string name="tax_thershold_foreign">%s (Extranjeros)</string>
   <string name="tax_thershold_native">%s (China Continental)</string>
   <string name="tax_threshold">Libre de impuestos umbral</string>
-  <string name="tax_title_primary"></string>
-  <string name="tax_title_secondary"></string>
   <string name="tax_unemployment">El desempleo</string>
   <string name="tax_update_time_format">De datos en el año %s, proporcionar por HeXun</string>
-  <string name="times"></string>
   <string name="title_bar">La longitud del convertidor</string>
   <string name="to_num">El 62,7</string>
   <string name="unit_data_default_area_0">sq.m</string>
@@ -404,7 +392,6 @@
   <string name="unit_data_short_weight_us.cwt">cwt</string>
   <string name="unit_myriads">×10K</string>
   <string name="unit_percentage">%</string>
-  <string name="unit_times"></string>
   <string name="unit_year">Y</string>
   <string name="unit_year_format">Año %s</string>
   <string name="unit_yuan">CNY</string>
@@ -439,5 +426,4 @@ Tamaño: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"La introducción de la versión %1$s
 Delta del tamaño de la actualización: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s actualización!</string>
-  <string name="year"></string>
 </resources>
