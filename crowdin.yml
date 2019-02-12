@@ -1,9 +1,3 @@
 files:
-  - source: '*.xml'
-    translation: /%two_letters_code%/%original_file_name%
-    languages_mapping:
-      two_letters_code:
-        de: de-de
-    content_segmentation: '0'
-    translatable_elements:
-      - </post_title><post_content>
+  - source: /sample.properties
+    translation: /%locale%.%original_file_name%
