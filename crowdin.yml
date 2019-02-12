@@ -2,5 +2,5 @@ files:
   - source: /sample.properties
     translation: /%locale%.%original_file_name%
     escape_quotes : 0
-    "escape_special_characters": 0
+    escape_special_characters: 0
    
