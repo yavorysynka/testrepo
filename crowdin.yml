@@ -1,6 +1,23 @@
+project_identifier: pricing-page
+api_key_env: CROWDIN_API_KEY
+base_path: .
+preserve_hierarchy: true
+
 files:
-  - source: /sample.properties
-    translation: /%locale%.%original_file_name%
-    escape_quotes : 0
-    escape_special_characters: 0
-   
+  - source: /src/translations/messages.json
+    translation: /src/translations/messages/messages.%locale%.json
+	update_option: "update_as_unapproved"
+    languages_mapping:
+      locale:
+        "de": "de"
+        "en": "en"
+        "es-ES": es,
+        "fr": "fr",
+        "hu": "hu",
+        "it": "it",
+        "ja": "ja",
+        "pl": "pl",
+        "pt-BR": "pt",
+        "ro": "ro",
+        "ru": "ru",
+        "tr-TR": "tr"
