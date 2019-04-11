@@ -6,7 +6,7 @@ preserve_hierarchy: true
 files:
   - source: /src/translations/messages.json
     translation: /src/translations/messages/messages.%locale%.json
-	update_option: "update_as_unapproved"
+    update_option: "update_as_unapproved"
     languages_mapping:
       locale:
         "de": "de"
