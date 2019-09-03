@@ -5,3 +5,4 @@ files:
   - source: /biters-app-store-trailer.html
     translation: /%two_letters_code%/%original_file_name%
     type: fm_html
+    content_segmentation: 0
