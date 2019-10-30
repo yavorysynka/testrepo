@@ -7,8 +7,5 @@ files:
     "languages_mapping" : {
     "locale" : {
       "de" : "german",
-      "it" : "ital",
-     }
-    }
-  }
-  
+      "it" : "ital"
+
