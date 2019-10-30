@@ -4,3 +4,7 @@ preserve_hierarchy: true
 files:
   - source: /*.properties
     translation: /translations/%locale%/%original_file_name%
+    "two_letters_code" : 
+    "de" : "german",
+   "fr" : "fr-frr"
+  
