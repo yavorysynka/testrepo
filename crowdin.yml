@@ -4,7 +4,11 @@ preserve_hierarchy: true
 files:
   - source: /*.properties
     translation: /translations/%locale%/%original_file_name%
-    "two_letters_code" : 
-    "de" : "german",
-   "fr" : "fr-frr"
+    "languages_mapping" : {
+    "locale" : {
+      "de" : "german",
+      "it" : "ital",
+     }
+    }
+  },
   
