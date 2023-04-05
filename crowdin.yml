@@ -1,6 +1,0 @@
-project_identifier: testseptember
-api_key: 3037dd837eb2cd0f6a9b04438eceabfa
-preserve_hierarchy: true
-files:
-  - source: /*.properties
-    translation: /translations/%two_letters_code%/%original_file_name%
